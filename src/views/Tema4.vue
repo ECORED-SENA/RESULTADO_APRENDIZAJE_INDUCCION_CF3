@@ -7,7 +7,7 @@
         span 4
       h1 Deserciones
     .row.justify-content-center.align-items-center
-      .col-lg-5(data-aos="zoom-out")
+      .col-lg-5(data-aos="zoom-in")
         img.img-t.img-a(src='@/assets/ilustraciones/img13.svg', alt='')       
       .col-lg-7
         p Según el Reglamento del Aprendiz, el estudiante, como gestor principal de su proceso de formación, debe participar de manera activa y oportuna en las diferentes actividades, presenciales y/o virtuales, que conforman la ruta de aprendizaje.
@@ -45,7 +45,7 @@
         p Si el aprendiz no da respuesta dentro del término establecido o no aporta las evidencias que justifiquen plenamente el incumplimiento, el subdirector de centro suscribirá el acto académico que declara la deserción en el proceso y ordena la respectiva cancelación de matrícula, acto administrativo debidamente notificado al aprendiz, para que dentro de los términos de ley presente el recurso de reposición ante el subdirector de centro.
 
         p Una vez esté en firme la decisión, deberá ser registrada la novedad en el sistema de gestión académica.  La cancelación de la matrícula implica que el aprendiz no pueda participar en procesos de ingreso a la institución en programas de formación titulada dentro de los seis (6) meses siguientes, contados a partir del registro de la novedad en el sistema de gestión de la formación.      
-      .col-lg-4(data-aos="zoom-out")
+      .col-lg-4(data-aos="zoom-in")
         img.img-t.img-a(src='@/assets/ilustraciones/img14.svg', alt='')       
 
 </template>

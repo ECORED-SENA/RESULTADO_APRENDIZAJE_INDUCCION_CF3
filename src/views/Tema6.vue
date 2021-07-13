@@ -12,11 +12,11 @@
         .cajon.color-acento-botones.p-4      
           p Después de cumplir con el periodo de la etapa lectiva, el aprendiz pasa a la etapa productiva, la cual tiene una duración de 864 horas (6 meses) para los programas técnicos y tecnológicos.
           p.mb-0 Cuando el aprendiz ejecuta una alternativa y no ha cumplido con el tiempo, puede complementar con otra alternativa el tiempo faltante. Esto implica previamente realizar el proceso de informar al centro que realizará la etapa productiva para la asignación del instructor de seguimiento. 
-      .col-lg-4(data-aos="zoom-out")
+      .col-lg-4(data-aos="zoom-in")
         img.img-t.img-a(src='@/assets/ilustraciones/img21.png', alt='')
     h4.mt-5 Documentación del desarrollo de la etapa productiva
     .row.justify-content-center.align-items-center.mt-5     
-      .col-lg-3(data-aos="zoom-out")
+      .col-lg-3(data-aos="zoom-in")
         img.img-t.img-a(src='@/assets/ilustraciones/img22.svg', alt='')
       .col-lg-9
         p Una vez se informa de la alternativa y tiene el aval del coordinador académico, el SENA – Centro de formación le asigna un instructor de seguimiento con el que se establecerán los formatos y evidencias que el aprendiz debe presentar de acuerdo con el plan de trabajo acordado. Estos son: 

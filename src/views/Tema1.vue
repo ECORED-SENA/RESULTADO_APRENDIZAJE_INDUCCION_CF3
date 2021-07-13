@@ -17,14 +17,14 @@
 
         p La evaluación sumativa se sitúa puntualmente al final del proceso pedagógico, cuando se requiere evaluar los resultados obtenidos. Su finalidad nunca debe ser medir un producto final, sino una serie de procesos que debieron ser graduales.  
 
-      .col-lg-5(data-aos="zoom-out")
+      .col-lg-5(data-aos="zoom-in")
         img.img-t.img-a(src='@/assets/ilustraciones/img2.png', alt='')
 
 
     p.text-center.mt-5 #[b En el proceso de evaluación del aprendizaje en el SENA intervienen 3 elementos que permiten complementar el proceso. Estos son: ]
 
     .row.justify-content-center.align-items-center.mt-3      
-      .col-lg-4(data-aos="zoom-out")
+      .col-lg-4(data-aos="zoom-in")
         img.img-t.img-a(src='@/assets/ilustraciones/img3.svg', alt='')      
       .col-lg-8
         .hr-dotted.my-4      
@@ -64,7 +64,7 @@
         .row.justify-content-center.mb-4
           .col-6
             figure(data-aos="zoom-in")
-              img(src='@/assets/ilustraciones/img4.svg', alt='Texto que describa la imagen')
+              img.img-2(src='@/assets/ilustraciones/img4.svg', alt='Texto que describa la imagen')
           
         h3.text-white.text-center Evidencias de conocimiento
         p.text-center Son aquellas que expresan el dominio cognitivo del aprendiz, es decir, el manejo que tiene de conceptos, definiciones, teorías, leyes, etc., que fundamentan su saber general en una temática generada.
@@ -73,7 +73,7 @@
         .row.justify-content-center.mb-4
           .col-6
             figure(data-aos="zoom-in")
-              img(src='@/assets/ilustraciones/img5.svg', alt='Texto que describa la imagen')
+              img.img-1(src='@/assets/ilustraciones/img5.svg', alt='Texto que describa la imagen')
           
         h3.text-white.text-center Evidencias de proceso
         p.text-center Es la verificación de las técnicas, procedimientos y pasos; el uso de equipos herramientas y materiales en la aplicación de conceptos o en la ejecución de procedimientos.
@@ -82,7 +82,7 @@
         .row.justify-content-center.mb-4
           .col-6
             figure(data-aos="zoom-in")
-              img(src='@/assets/ilustraciones/img6.svg', alt='Texto que describa la imagen')
+              img.img-2(src='@/assets/ilustraciones/img6.svg', alt='Texto que describa la imagen')
           
         h3.text-white.text-center  Evidencias de producto
         p.text-center Implica la entrega de resultados acabados, solicitados con anterioridad por el instructor y estipulados en el currículo de formación. 

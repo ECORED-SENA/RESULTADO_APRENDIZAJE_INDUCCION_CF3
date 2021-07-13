@@ -19,7 +19,7 @@
         p El instructor deberá considerar el cambio de estrategias formativas, puesto que si las utilizadas en un principio no facilitaron del todo el aprendizaje, entonces hay que modificarlas por otras que le den al aprendiz la sensación de novedad, motivación, expectativa y le induzcan a realizarlas, es decir, que se mantienen los resultados deseables, pero se cambian las estrategias y las actividades de formación.
 
         p No está de más recordar que este es uno de los aspectos delicados en un proceso de formación, pues de él depende una promoción, un reconocimiento o una certificación. Por lo tanto, el instructor debe:      
-      .col-lg-4(data-aos="zoom-out")
+      .col-lg-4(data-aos="zoom-in")
         img.img-t.img-a(src='@/assets/ilustraciones/img7.svg', alt='') 
 
     .row.justify-content-center.align-items-center.mt-3      
@@ -45,7 +45,7 @@
         .hr-dotted.my-4  
     h4.mt-5 Disciplinario
     .row.justify-content-center.align-items-center.mt-3      
-      .col-lg-4(data-aos="zoom-out")
+      .col-lg-4(data-aos="zoom-in")
         img.img-t.img-a.my-3(src='@/assets/ilustraciones/img8.svg', alt='')          
       .col-lg-8
         p Es una medida adoptada para definir acciones de carácter comportamental, actitudinal o social, para propiciar en el aprendiz cambios en su conducta cuando se le ha impuesto sanción disciplinaria consistente en llamado de atención escrito o condicionamiento de matrícula. 
