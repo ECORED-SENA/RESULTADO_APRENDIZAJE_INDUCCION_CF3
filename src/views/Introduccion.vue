@@ -7,7 +7,7 @@
       .titulo-principal__numero
         span
           i.fas.fa-info
-      h1 Introducción
+      h1.tracking-in-expand Introducción
     
     img(data-aos="flip-up").img-t.img-a.bg-2(src='@/assets/ilustraciones/img1.png', alt='')
     .row.justify-content-center.align-items-center.bg-1

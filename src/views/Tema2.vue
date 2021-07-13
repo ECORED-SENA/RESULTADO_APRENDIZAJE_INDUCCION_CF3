@@ -5,11 +5,11 @@
     .titulo-principal
       .titulo-principal__numero
         span 2
-      h1 Plan de mejoramiento
+      h1.tracking-in-expand Plan de mejoramiento
     p Todos cometemos errores y, gracias a estos, nuestra vida es más grata debido a que esa experiencia nos impulsa a corregir nuestras acciones. El SENA no es ajeno a las oportunidades, por eso, desde el Reglamento del Aprendiz, se contempla esta posibilidad, que aplica tanto al ámbito presencial como virtual y que busca reprogramar al estudiante en actividades complementarias de formación, sin cometer atropellos o estar cargado de subjetividades.
 
     p Se contemplan dos tipos de planes de mejoramiento:    
-    h4.mt-5 Académico
+    h4.mt-5.tracking-in-expand Académico
     .row.justify-content-center.align-items-center.mt-4      
       .col-lg-8
         p Se trata de una medida adoptada para definir acciones de formación, previo agotamiento de estrategias pedagógicas del instructor e iniciativas del aprendiz.  
@@ -43,7 +43,7 @@
               span 3
             | Poseer los soportes que identifiquen la formación, el seguimiento, las evaluaciones y los productos recibidos del aprendiz para aportarlos cuando sea necesario a quienes realizan los controles a las ejecuciones de los planes de mejoramiento en un centro de formación.
         .hr-dotted.my-4  
-    h4.mt-5 Disciplinario
+    h4.mt-5.tracking-in-expand Disciplinario
     .row.justify-content-center.align-items-center.mt-3      
       .col-lg-4(data-aos="zoom-in")
         img.img-t.img-a.my-3(src='@/assets/ilustraciones/img8.svg', alt='')          

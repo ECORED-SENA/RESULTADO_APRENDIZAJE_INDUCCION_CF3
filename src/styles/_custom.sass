@@ -113,16 +113,26 @@
   animation-iteration-count: infinite
 
 @keyframes beat 
-  0%  {transform: scale(1.0)}
-  10%  {transform: scale(1.1)}
-  20%  {transform: scale(1.2)}
-  30%  {transform: scale(1.1)}
-  40%  {transform: scale(1.2)}
-  50%  {scale: (1.0)}
-  60%  {scale: scale(1.1)}
-  70%  {scale: scale(1.2)}
-  80%  {scale: scale(1.1)}
-  90%  {scale: scale(1.2)}
+  0%  
+    transform: scale(1.0)
+  10%  
+    transform: scale(1.1)
+  20%  
+    transform: scale(1.2)
+  30%  
+    transform: scale(1.1)
+  40%  
+    transform: scale(1.2)
+  50%  
+    scale: (1.0)
+  60%  
+    scale: scale(1.1)
+  70%  
+    scale: scale(1.2)
+  80%  
+    scale: scale(1.1)
+  90%  
+    scale: scale(1.2)
 
 .yoyo:hover
   animation-name: yoyo
@@ -132,9 +142,12 @@
 
 
 @keyframes yoyo
-  0%{transform: translatey(0px)}    
-  50%{transform: translatey(-10px)}
-  100%{transform: translatey(0px)}
+  0%
+    transform: translatey(0px)    
+  50%
+    transform: translatey(-10px)
+  100%
+    transform: translatey(0px)
 
 
 .swing:hover
@@ -144,7 +157,36 @@
   -o-animation-direction: alternate
 
 @keyframes swing
-  0%{transform: translatex(0px)}    
-  50%{transform: translatex(-10px)}
-  100%{transform: translatex(0px)}
+  0%
+    transform: translatex(0px)   
+  50%
+    transform: translatex(-10px)
+  100%
+    transform: translatex(0px)
 
+
+.tracking-in-expand
+  -webkit-animation: tracking-in-expand 0.7s cubic-bezier(0.215, 0.61, 0.355, 1) both
+  animation: tracking-in-expand 0.7s cubic-bezier(0.215, 0.61, 0.355, 1) both
+
+@-webkit-keyframes tracking-in-expand
+  0%
+    letter-spacing: -0.5em
+    opacity: 0
+
+  40%
+    opacity: 0.6
+
+  100%
+    opacity: 1
+
+@keyframes tracking-in-expand
+  0%
+    letter-spacing: -0.5em
+    opacity: 0
+
+  40%
+    opacity: 0.6
+
+  100%
+    opacity: 1

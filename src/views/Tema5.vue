@@ -5,9 +5,9 @@
     .titulo-principal
       .titulo-principal__numero
         span 5
-      h1 Alternativas de selección etapa productiva 
+      h1.tracking-in-expand Alternativas de selección etapa productiva 
     p Al finalizar la etapa lectiva, es importante que usted tenga conocimiento sobre el desarrollo de la etapa productiva. Este es el periodo en el cual podrá resolver problemas reales del sector empresarial, aplicar los conocimientos, habilidades y destrezas pertinentes a las competencias del programa de formación, asumiendo metodologías de autogestión. 
-    p.text-center #[b Conozca a continuación las diferentes alternativas que puede elegir para realizar en su etapa productiva.] 
+    p.text-center.tracking-in-expand #[b Conozca a continuación las diferentes alternativas que puede elegir para realizar en su etapa productiva.] 
 
     .row.justify-content-center.align-items-center.mt-5
       .col-10(data-aos="flip-up")  

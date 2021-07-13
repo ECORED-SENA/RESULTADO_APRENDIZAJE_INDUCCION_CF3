@@ -5,14 +5,14 @@
     .titulo-principal
       .titulo-principal__numero
         span 4
-      h1 Deserciones
+      h1.tracking-in-expand Deserciones
     .row.justify-content-center.align-items-center
       .col-lg-5(data-aos="zoom-in")
         img.img-t.img-a(src='@/assets/ilustraciones/img13.svg', alt='')       
       .col-lg-7
         p Según el Reglamento del Aprendiz, el estudiante, como gestor principal de su proceso de formación, debe participar de manera activa y oportuna en las diferentes actividades, presenciales y/o virtuales, que conforman la ruta de aprendizaje.
 
-        p #[b De acuerdo con el documento, las siguientes causales generan deserción:]
+        p.tracking-in-expand #[b De acuerdo con el documento, las siguientes causales generan deserción:]
         .hr-dotted.my-4
         ol.lista-ol--cuadro
           li 

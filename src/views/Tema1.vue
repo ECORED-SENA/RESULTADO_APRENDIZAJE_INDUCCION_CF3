@@ -5,7 +5,7 @@
     .titulo-principal
       .titulo-principal__numero
         span 1
-      h1 Procesos de evaluación SENA	
+      h1.tracking-in-expand Procesos de evaluación SENA	
     .row.justify-content-center.align-items-center       
       .col-lg-7
         .cajon.color-acento-botones.p-4
@@ -21,7 +21,7 @@
         img.img-t.img-a(src='@/assets/ilustraciones/img2.png', alt='')
 
 
-    p.text-center.mt-5 #[b En el proceso de evaluación del aprendizaje en el SENA intervienen 3 elementos que permiten complementar el proceso. Estos son: ]
+    p.text-center.mt-5.tracking-in-expand #[b En el proceso de evaluación del aprendizaje en el SENA intervienen 3 elementos que permiten complementar el proceso. Estos son: ]
 
     .row.justify-content-center.align-items-center.mt-3      
       .col-lg-4(data-aos="zoom-in")

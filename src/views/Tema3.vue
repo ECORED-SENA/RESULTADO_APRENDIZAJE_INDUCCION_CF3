@@ -5,7 +5,7 @@
     .titulo-principal
       .titulo-principal__numero
         span 3
-      h1 Trámites de gestión administrativa
+      h1.tracking-in-expand Trámites de gestión administrativa
     p Es necesario que el aprendiz reconozca los siguientes trámites que en cualquier momento puede solicitar.  Para cada uno de los casos, el interesado debe elevar una solicitud formal a través de oficio radicado en el centro de formación y registrado en el sistema de gestión de formación.   A continuación, se listan los siguientes:
     .row.justify-content-center.align-items-center.mt-5
       .col-10(data-aos="flip-up")    

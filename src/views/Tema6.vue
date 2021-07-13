@@ -5,7 +5,7 @@
     .titulo-principal
       .titulo-principal__numero
         span 6
-      h1 Seguimiento al desarrollo de la etapa productiva 
+      h1.tracking-in-expand Seguimiento al desarrollo de la etapa productiva 
 
     .row.justify-content-center.align-items-center       
       .col-lg-8
@@ -14,7 +14,7 @@
           p.mb-0 Cuando el aprendiz ejecuta una alternativa y no ha cumplido con el tiempo, puede complementar con otra alternativa el tiempo faltante. Esto implica previamente realizar el proceso de informar al centro que realizará la etapa productiva para la asignación del instructor de seguimiento. 
       .col-lg-4(data-aos="zoom-in")
         img.img-t.img-a(src='@/assets/ilustraciones/img21.png', alt='')
-    h4.mt-5 Documentación del desarrollo de la etapa productiva
+    h4.mt-5.tracking-in-expand Documentación del desarrollo de la etapa productiva
     .row.justify-content-center.align-items-center.mt-5     
       .col-lg-3(data-aos="zoom-in")
         img.img-t.img-a(src='@/assets/ilustraciones/img22.svg', alt='')
