@@ -64,7 +64,7 @@
         .row.justify-content-center.mb-4
           .col-6
             figure(data-aos="zoom-in")
-              img.img-2(src='@/assets/ilustraciones/img4.svg', alt='Texto que describa la imagen')
+              img.beat(src='@/assets/ilustraciones/img4.svg', alt='Texto que describa la imagen')
           
         h3.text-white.text-center Evidencias de conocimiento
         p.text-center Son aquellas que expresan el dominio cognitivo del aprendiz, es decir, el manejo que tiene de conceptos, definiciones, teorías, leyes, etc., que fundamentan su saber general en una temática generada.
@@ -73,7 +73,7 @@
         .row.justify-content-center.mb-4
           .col-6
             figure(data-aos="zoom-in")
-              img.img-1(src='@/assets/ilustraciones/img5.svg', alt='Texto que describa la imagen')
+              img.beat(src='@/assets/ilustraciones/img5.svg', alt='Texto que describa la imagen')
           
         h3.text-white.text-center Evidencias de proceso
         p.text-center Es la verificación de las técnicas, procedimientos y pasos; el uso de equipos herramientas y materiales en la aplicación de conceptos o en la ejecución de procedimientos.
@@ -82,7 +82,7 @@
         .row.justify-content-center.mb-4
           .col-6
             figure(data-aos="zoom-in")
-              img.img-2(src='@/assets/ilustraciones/img6.svg', alt='Texto que describa la imagen')
+              img.beat(src='@/assets/ilustraciones/img6.svg', alt='Texto que describa la imagen')
           
         h3.text-white.text-center  Evidencias de producto
         p.text-center Implica la entrega de resultados acabados, solicitados con anterioridad por el instructor y estipulados en el currículo de formación. 

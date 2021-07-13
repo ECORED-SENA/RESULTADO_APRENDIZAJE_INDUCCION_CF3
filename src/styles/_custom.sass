@@ -108,22 +108,42 @@
   background-color: #FF6B00 !important
 
 
+.beat:hover 
+  animation: beat 1.0s
+  animation-iteration-count: infinite
 
-.img-1:hover
-  border-radius: 50
-  -webkit-border-radius: 50%
-  box-shadow: 0px 0px 15px 15px #FF6B00
+@keyframes beat 
+  0%  {transform: scale(1.0)}
+  10%  {transform: scale(1.1)}
+  20%  {transform: scale(1.2)}
+  30%  {transform: scale(1.1)}
+  40%  {transform: scale(1.2)}
+  50%  {scale: (1.0)}
+  60%  {scale: scale(1.1)}
+  70%  {scale: scale(1.2)}
+  80%  {scale: scale(1.1)}
+  90%  {scale: scale(1.2)}
 
-.img-2:hover
-  border-radius: 50
-  -webkit-border-radius: 50%
-  box-shadow: 0px 0px 15px 15px #FFAF0D
-  
-
-.img-3:hover 
-  transform: rotatey(180deg)
+.yoyo:hover
+  animation-name: yoyo
+  animation-duration: 2.0s
+  animation-iteration-count: infinite
+  -o-animation-direction: alternate
 
 
-  
+@keyframes yoyo
+  0%{transform: translatey(0px)}    
+  50%{transform: translatey(-10px)}
+  100%{transform: translatey(0px)}
 
 
+.swing:hover
+  animation-name: swing
+  animation-duration: 3.0s
+  animation-iteration-count: infinite
+  -o-animation-direction: alternate
+
+@keyframes swing
+  0%{transform: translatex(0px)}    
+  50%{transform: translatex(-10px)}
+  100%{transform: translatex(0px)}

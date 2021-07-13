@@ -17,7 +17,7 @@
               p.text-small El número de veces del traslado debe estar supeditado al análisis del comité de evaluación y seguimiento del centro de formación. 
               p.text-small Cuando el aprendiz se encuentre sancionado con condicionamiento de matrícula, no se le autorizará traslado ni aplazamiento del proceso de formación.          
             .col-md-4
-              img(src='@/assets/ilustraciones/img9.svg', alt='Traslado')
+              img.swing(src='@/assets/ilustraciones/img9.svg', alt='Traslado')
 
           .row.justify-content-center.align-items-center(numero="2" titulo="Aplazamiento")
             .col-md-8.mb-4.mb-md-0
@@ -25,7 +25,7 @@
               p.text-small El aplazamiento será autorizado por el Comité de Evaluación y Seguimiento del centro de formación a través de acto administrativo, por un tiempo máximo de seis (6) meses calendario continuos o discontinuos, de acuerdo con el tiempo de duración del programa, contados a partir de su notificación o respectiva respuesta a la solicitud.
               p.text-small Cuando se trate de aplazamiento por prestación de servicio militar o incapacidad, el Comité podrá autorizarlo por un tiempo superior a los seis meses mientras permanezca en esta situación.          
             .col-md-4
-              img(src='@/assets/ilustraciones/img10.svg', alt='Aplazamiento')
+              img.swing(src='@/assets/ilustraciones/img10.svg', alt='Aplazamiento')
 
           .row.justify-content-center.align-items-center(numero="3" titulo="Reingreso")
             .col-md-8.mb-4.mb-md-0
@@ -34,13 +34,13 @@
               p.text-small.text-small Si el programa al que solicita el reingreso no se encuentra vigente en el momento de la solicitud, el Comité de Evaluación y Seguimiento procederá a: *Verificar que el programa vigente corresponda a la misma red, modalidad de formación o línea tecnológica.
               p.text-small.text-small *Analizar cada una de las competencias y resultados de los dos programas para establecer los que le faltan al aprendiz para que continúe en el proceso de formación.        
             .col-md-4
-              img(src='@/assets/ilustraciones/img11.svg', alt='Reingreso')
+              img.swing(src='@/assets/ilustraciones/img11.svg', alt='Reingreso')
 
           .row.justify-content-center.align-items-center(numero="4" titulo="Retiro voluntario")
             .col-md-8.mb-4.mb-md-0
               p.text-small  Es la petición para retirarse definitivamente del programa de formación. Implica que el aprendiz no pueda participar en procesos de ingreso a la institución en programas de formación titulada dentro de los seis (6) meses siguientes, contados a partir del registro de la novedad.         
             .col-md-4
-              img(src='@/assets/ilustraciones/img12.svg', alt='Retiro voluntario')                            
+              img.swing(src='@/assets/ilustraciones/img12.svg', alt='Retiro voluntario')                            
 </template>
 
 <script>
