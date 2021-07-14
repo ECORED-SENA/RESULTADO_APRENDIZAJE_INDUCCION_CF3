@@ -42,7 +42,8 @@
     h4.mt-5 Registro de los formatos de seguimiento
     p El instructor debe registrar en los formatos de seguimiento los avances del proceso formativo de cada uno de los aprendices, de acuerdo con lo establecido en el procedimiento de ejecución de la formación.
     h4.mt-5 Conferencias web
-    p De acuerdo con la planeación realizada con el coordinador académico del centro de formación, debe realizarse como mínimo una conferencia web mensual con el instructor técnico y los aprendices. Al igual que en las demás sesiones sincrónicas, las grabaciones de estas conferencias web deberán estar disponibles en el LMS.    
+    p De acuerdo con la planeación realizada con el coordinador académico del centro de formación, debe realizarse como mínimo una conferencia web mensual con el instructor técnico y los aprendices. Al igual que en las demás sesiones sincrónicas, las grabaciones de estas conferencias web deberán estar disponibles en el LMS. 
+
 </template>
 
 <script>
